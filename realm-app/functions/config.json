@@ -1,0 +1,14 @@
+[
+    {
+        "name": "filteredMovies",
+        "private": false
+    },
+    {
+        "name": "facetsGenres",
+        "private": false
+    },
+    {
+        "name": "autocompleteTitle",
+        "private": false
+    }
+]
